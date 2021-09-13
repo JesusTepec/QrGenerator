@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/QrGenerator.iml" filepath="$PROJECT_DIR$/.idea/modules/QrGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/QR/QrGenerator.QR.iml" filepath="$PROJECT_DIR$/.idea/modules/QR/QrGenerator.QR.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/QrGenerator.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/QrGenerator.app.iml" />
     </modules>
   </component>
